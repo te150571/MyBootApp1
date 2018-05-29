@@ -2,7 +2,7 @@
 <testsuite name="jp.te4a.spring.boot.myapp1.AppTest" time="0" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_161\bin"/>
+    <property name="sun.boot.library.path" value="E:\TE_Team\jdk1.8.0_161\jre\bin"/>
     <property name="java.vm.version" value="25.161-b12"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="maven.multiModuleProjectDirectory" value="E:\TE_Team\workspace_sts\MyBootApp1"/>
@@ -19,16 +19,16 @@
     <property name="user.dir" value="E:\TE_Team\workspace_sts\MyBootApp1"/>
     <property name="java.runtime.version" value="1.8.0_161-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_161\lib\endorsed"/>
+    <property name="java.endorsed.dirs" value="E:\TE_Team\jdk1.8.0_161\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\150571\AppData\Local\Temp\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="E:\TE_Team\workspace_sts\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5042931148850749433.tmp"/>
+    <property name="classworlds.conf" value="E:\TE_Team\workspace_sts\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1836279052721484471.tmp"/>
     <property name="sun.jnu.encoding" value="MS932"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_161\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:/TE_Team/jdk1.8.0_161/bin/../jre/bin/server;E:/TE_Team/jdk1.8.0_161/bin/../jre/bin;E:/TE_Team/jdk1.8.0_161/bin/../jre/lib/amd64;E:\TE_Team\jdk1.8.0_161\bin;apache-maven-3.5.3\bin;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\IBM\Bluemix\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\nodejs\;C:\WINDOWS\System32\OpenSSH\;C:\Users\150571\AppData\Local\Microsoft\WindowsApps;;E:\TE_Team\sts-bundle\sts-3.9.3.RELEASE;;."/>
+    <property name="java.library.path" value="E:\TE_Team\jdk1.8.0_161\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:/TE_Team/jdk1.8.0_161/bin/../jre/bin/server;E:/TE_Team/jdk1.8.0_161/bin/../jre/bin;E:/TE_Team/jdk1.8.0_161/bin/../jre/lib/amd64;E:\TE_Team\jdk1.8.0_161\bin;apache-maven-3.5.3\bin;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\IBM\Bluemix\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\nodejs\;C:\WINDOWS\System32\OpenSSH\;C:\Users\150571\AppData\Local\Microsoft\WindowsApps;;E:\TE_Team\sts-bundle\sts-3.9.3.RELEASE;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -42,15 +42,15 @@
     <property name="java.class.path" value="E:\TE_Team\sts-bundle\sts-3.9.3.RELEASE\plugins\org.eclipse.m2e.maven.runtime_1.8.3.20180227-2135\jars\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_161"/>
+    <property name="java.home" value="E:\TE_Team\jdk1.8.0_161\jre"/>
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -s ..\..\apache-maven-3.5.3\conf\settings.xml test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="ja"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.version" value="1.8.0_161"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_161\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_161\lib\resources.jar;C:\Program Files\Java\jre1.8.0_161\lib\rt.jar;C:\Program Files\Java\jre1.8.0_161\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_161\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_161\lib\jce.jar;C:\Program Files\Java\jre1.8.0_161\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_161\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_161\classes"/>
+    <property name="java.ext.dirs" value="E:\TE_Team\jdk1.8.0_161\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="E:\TE_Team\jdk1.8.0_161\jre\lib\resources.jar;E:\TE_Team\jdk1.8.0_161\jre\lib\rt.jar;E:\TE_Team\jdk1.8.0_161\jre\lib\sunrsasign.jar;E:\TE_Team\jdk1.8.0_161\jre\lib\jsse.jar;E:\TE_Team\jdk1.8.0_161\jre\lib\jce.jar;E:\TE_Team\jdk1.8.0_161\jre\lib\charsets.jar;E:\TE_Team\jdk1.8.0_161\jre\lib\jfr.jar;E:\TE_Team\jdk1.8.0_161\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="maven.home" value="E:\TE_Team\workspace_sts\MyBootApp1\EMBEDDED"/>
     <property name="file.separator" value="\"/>
